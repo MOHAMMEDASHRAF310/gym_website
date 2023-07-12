@@ -1,2 +1,2 @@
 # gym_website
-Gym Mangament System
+Gym Management System
